@@ -1,7 +1,7 @@
 # Hello! 
 
-<p> I am an Data Science Student that is into programming, nothing special to see here...</p> 
-<p> I'm be using Github to upload random things that I have coded. The objective is to be able to improve my coding skills and bring it to the next level! </p>
+<p> I am an Data Science Student that very into programming, and moving forward this page will be filled with project code. </p> 
+<p> Once I start on projects, I will update this page further. </p>
 
 
 
